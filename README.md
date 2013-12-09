@@ -4,7 +4,7 @@
 
 ### Contributing
 If you wish to submit a pull request to fix bugs or broken behaviour feel free to do so. If you would like to add 
-features or change existing behaviour or balance, please discuss it with Sengir or Krapht before submiting the pull request.
+features or change existing behaviour or balance, please discuss it with Thantyx before submiting the pull request.
 
 Do not submit pull requests which solely "fix" formatting. As these kinds of changes are usually very intrusive in commit history and everyone has their own idea what "proper formatting" is, they should be done by one of the main contributors. 
 Please only submit "code cleanup", if the changes actually have a substantial impact on readability.
